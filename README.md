@@ -28,6 +28,13 @@ export const option: IOption = {
     devModePassword: 'thisisademo'
 }
 ```
+
+4. Run
+```
+npm install
+npm run start
+```
+
 4. Results:
    1. Hello World
    ![Hello World](./assets/helloworld.jpg)
