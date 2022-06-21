@@ -4,7 +4,7 @@
 ## Get started
 1. Go to [https://portal.featureflag.co](https://portal.featureflag.co) create your project
 2. Create two flags in your environment
-    1. **hello** with two options: **Wrold** and **Universe**
+    1. **hello** with two options: **World** and **Universe**
     ![hello flag config](./assets/helloflag.jpg)
     2. **counter** with two options: **true** and **false**
     ![counter flag config](./assets/counterflag.jpg)
